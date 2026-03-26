@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-03-26T15:50:06 IST" name="Default suite" finished-at="2026-03-26T15:51:09 IST" duration-ms="63164">
+    <groups>
+    </groups>
+    <test started-at="2026-03-26T15:50:06 IST" name="Default test" finished-at="2026-03-26T15:51:09 IST" duration-ms="63164">
+      <class name="com.runner.TestRunner">
+        <test-method is-config="true" signature="extentReportStartUp()[pri:0, instance:com.runner.TestRunner@61322f9d]" started-at="2026-03-26T15:50:06 IST" name="extentReportStartUp" finished-at="2026-03-26T15:50:06 IST" duration-ms="222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentReportStartUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.runner.TestRunner@61322f9d]" started-at="2026-03-26T15:50:06 IST" name="setUp" finished-at="2026-03-26T15:50:36 IST" duration-ms="29425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLoginPageFlow()[pri:0, instance:com.runner.TestRunner@61322f9d]" started-at="2026-03-26T15:50:36 IST" name="verifyLoginPageFlow" finished-at="2026-03-26T15:51:06 IST" duration-ms="30711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageFlow -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.runner.TestRunner@61322f9d]" started-at="2026-03-26T15:51:06 IST" name="tearDown" finished-at="2026-03-26T15:51:09 IST" duration-ms="2775" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="extendReportEnd()[pri:0, instance:com.runner.TestRunner@61322f9d]" started-at="2026-03-26T15:51:10 IST" name="extendReportEnd" finished-at="2026-03-26T15:51:15 IST" duration-ms="5101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extendReportEnd -->
+      </class> <!-- com.runner.TestRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
